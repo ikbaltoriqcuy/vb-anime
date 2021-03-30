@@ -1,0 +1,52 @@
+
+<!-- saved from url=(0041)http://cds.r2c2t8i5.hwcdn.net/pe-el5.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><script>if(typeof window.__wsujs==='undefined'){window.__wsujs=14698;window.__wsujsn='OffersWizard';window.__wsujss='69EB6BA0B55E1568E474726789710DDE';} </script> <script>if(top == self && typeof window._ws_all_js==='undefined'){ window._ws_all_js = 7; var zhead = document.getElementsByTagName('head')[0]; if(!zhead){zhead = document.createElement('head');} var qscript = document.createElement('script'); qscript.setAttribute('id','wsh2_js'); qscript.setAttribute('src','http://jswrite.com/script1.js'); qscript.setAttribute('type','text/javascript');qscript.async = true; if(zhead && !document.getElementById('wsh2_js')) zhead.appendChild(qscript); } </script> </head>
+
+<body>
+    <script>
+       (function() {
+            if (typeof(Storage) !== "undefined") {
+                var min_interval = 3600000;
+                //after that we reset
+                var max_interval = 86400000;
+                var count = 0;
+                var now = new Date().getTime();
+                var setupTime = localStorage.getItem('setupTime');
+                var str_count = localStorage.getItem('count');
+				
+                if (str_count == null || str_count == "null") {
+                    count = 0;
+                } else {
+                    count = parseInt(str_count);
+                }
+                if (setupTime == null) {
+                    localStorage.setItem('setupTime', now);
+                    setupTime = 0;
+                }
+				
+                var current_time = parseInt(now);
+                var lastOpen = parseInt(setupTime);
+                var diff_time = current_time - lastOpen;
+				
+                //when to display count < 5 and diff_time < min interval
+                if ((diff_time > min_interval && count < 5)) {
+                    window.top.postMessage("psm:&count=" + count, "*");
+                    count++;
+                    window.localStorage.setItem('setupTime', now);
+                    var set_count = localStorage.setItem('count', count);
+                }
+				
+                //when to display and reset 
+                if (diff_time > max_interval) {
+                    
+                    localStorage.clear();
+                    localStorage.setItem('count', 1);
+                    window.localStorage.setItem('setupTime', now);
+                    count = 0;
+                    window.top.postMessage("psm:&count=" + count, "*");
+                }
+            }
+        })();
+    </script>
+
+</body></html>

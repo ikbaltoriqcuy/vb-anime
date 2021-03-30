@@ -1,0 +1,18 @@
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\bin\Release\Anime.exe
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\bin\Release\Anime.pdb
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\bin\Release\Anime.xml
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\obj\x86\Release\WindowsApplication1.AnimeStyle.resources
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\obj\x86\Release\WindowsApplication1.Resources.resources
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\obj\x86\Release\Anime.vbproj.GenerateResource.Cache
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\obj\x86\Release\Anime.exe
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\obj\x86\Release\Anime.xml
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\obj\x86\Release\Anime.pdb
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\bin\Release\Anime.exe
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\bin\Release\Anime.pdb
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\bin\Release\Anime.xml
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Release\WindowsApplication1.AnimeStyle.resources
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Release\WindowsApplication1.Resources.resources
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Release\Anime.vbproj.GenerateResource.Cache
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Release\Anime.exe
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Release\Anime.xml
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Release\Anime.pdb

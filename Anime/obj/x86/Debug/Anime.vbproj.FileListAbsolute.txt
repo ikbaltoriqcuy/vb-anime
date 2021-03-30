@@ -1,0 +1,30 @@
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\bin\Debug\Anime.exe
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\bin\Debug\Anime.pdb
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\bin\Debug\Anime.xml
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\obj\x86\Debug\Anime.vbproj.GenerateResource.Cache
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\obj\x86\Debug\Anime.exe
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\obj\x86\Debug\Anime.xml
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\obj\x86\Debug\Anime.pdb
+G:\Proyek\Vb\Anime shigatsu\Anime\Anime\obj\x86\Debug\WindowsApplication1.AnimeStyle.resources
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Debug\Anime.exe
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Debug\Anime.xml
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Debug\Anime.pdb
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\bin\Debug\Anime.exe
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\bin\Debug\Anime.pdb
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\bin\Debug\Anime.xml
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Debug\WindowsApplication1.AnimeStyle.resources
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Debug\Anime.vbproj.GenerateResource.Cache
+E:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Debug\Anime.exe
+E:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Debug\Anime.xml
+E:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Debug\Anime.pdb
+E:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\bin\Debug\Anime.exe
+E:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\bin\Debug\Anime.pdb
+E:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\bin\Debug\Anime.xml
+E:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Debug\WindowsApplication1.AnimeStyle.resources
+E:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Debug\Anime.vbproj.GenerateResource.Cache
+E:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\bin\Debug\Database1.sdf
+E:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\obj\x86\Debug\Anime.vbprojResolveAssemblyReference.cache
+E:\Proyek\Vb\Anime shigatsu\ShigatsuWa Kimimno Uso\Anime\bin\Debug\Anime.exe.config
